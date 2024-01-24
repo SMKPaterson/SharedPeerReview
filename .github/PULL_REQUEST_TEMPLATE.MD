@@ -49,7 +49,7 @@ If this is not needed then tick reason why not
 - [ ] User Story has acceptance test criteria defined in G-W-T format
 - [ ] Not needed because not a user story
 - [ ] Not needed because development technical task
-- [ ] Note need because of other reason
+- [ ] Not needed because of other reason
 
 #
 ### Code Hygeine
