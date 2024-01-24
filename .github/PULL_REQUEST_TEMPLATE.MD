@@ -1,7 +1,7 @@
 # NDC Enterprise Code Review Checklist
 **View this file on GitHub *Preview* tab to enable checkbox ticks**
 
-Refer to the [Peer Reviews](https://confluence.ncr.com/display/NDCE/Peer+Reviews) Confluence page for an overview of the NDC Enterprise peer review process. This code review checklist supports this process.
+Refer to the [Peer Reviews](https://ncratleosengtools.atlassian.net/wiki/spaces/NDCE/pages/50587346/Peer+Reviews) Confluence page for an overview of the NDC Enterprise peer review process. This code review checklist supports this process.
 
 To get the best responses from your reviewers, please help them by checking all items relevant to your code updates.
 #
