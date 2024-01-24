@@ -41,7 +41,15 @@ Indicate the relevant edge cases your reviewers must consider, in addition to th
 - [ ] Touchscreen and FDK
 - [ ] Card reader differences (IMCRW vs. DIP)
 - [ ] Out of sequence flows
-- [ ] Does the user have acceptance test criteria defined in G-W-T format?
+
+#
+### Testable Acceptance Criteria
+Having the user story defined with testable accetance criteria in G-W-T format can help reviewers better understand how the code will be used.
+If this is not needed then tick reason why not
+- [ ] User Story has acceptance test criteria defined in G-W-T format
+- [ ] Not needed because not a user story
+- [ ] Not needed because development technical task
+- [ ] Note need because of other reason
 
 #
 ### Code Hygeine
@@ -62,7 +70,9 @@ Indicate if you made changes to any builder project
 - [ ] Reference
 - [ ] VG
 
-Indicate if you used the Builder Fixer Tool to check for errors
+#
+### Builder Fixer Tool
+Indicate if you used the Builder Fixer Tool (bfx.exe) to check for errors
 - [ ] Builder Fixer Tool used 
 
 #
