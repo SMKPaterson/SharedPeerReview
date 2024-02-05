@@ -3,7 +3,7 @@ Refer to the [Peer Reviews](https://ncratleosengtools.atlassian.net/wiki/spaces/
 ### FIRST - DONE BEFORE CREATING PULL REQUEST >>> Add Message For Your Reviewers
 ---
 
-[Type over this text to write any general message for your reviewers. Do this **before** clicking "Create pull request".]
+[IN THE WRITE TAB: Type over this text to write any general message for your reviewers. Do this **before** clicking "Create pull request".]
 
 ---
 ### SECOND - DONE AFTER CREATING PULL REQUEST >>> Tick All Relevant Boxes 
