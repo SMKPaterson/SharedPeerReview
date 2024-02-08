@@ -3,3 +3,4 @@ I added a second line.
 Added line 3
 Added a line for Branch 4
 Added a line for Branch 5
+New line for branch 7
