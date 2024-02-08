@@ -13,47 +13,36 @@ The section below comprises checkbox items. Do not delete any item.  To get the 
 - [ ] Moderately complex
 - [ ] Simple
 - [ ] None
-#### Code Hygeine
+#### Code Hygiene
+- [ ] Unit tests run and all passed
 - [ ] There is no duplicated code
 - [ ] Naming conventions followed
 - [ ] Full and clear code comments
 - [ ] Null never returned
 - [ ] New classes and functions small and do one thing 
 - [ ] Copied and pasted code has NOT been used
-#### Documentation
+#### Documentation & Specification
 - [ ] Documentation Updated & Reviewed
-#### Registry Changes
-- [ ] Changes to existing NDC Enterprise or Advance NDC registry entries
-- [ ] New NDC Enterprise or Advance NDC registy entries created
-- [ ] Other registry changes
-#### Builder Project Flow Changes
+- [ ] Testable G-W-T acceptance criteria are specified in the user story
+#### Builder Project Flow Changes & Builder Fixer Tool
 - [ ] FastStart
 - [ ] Reference
 - [ ] VG
 - [ ] Adjunct
-- [ ] CxTH
+- [ ] Extra Screen
+- [ ] Builder Fixer Tool Run & Issues Fixed
 #### Edge Cases
 Indicate the relevant edge cases your reviewers must consider, in addition to the *happy path*.
-- [ ] Timeouts scenarios
+- [ ] Timeouts
 - [ ] Reloading of views
 - [ ] ITR responses
 - [ ] Bad data input (long strings, invalid chars, boundary values, etc)
 - [ ] Multi language handling
 - [ ] Network problems
-- [ ] Device faults
+- [ ] Device faults & hardware differences (e.g. Touchscreen vs. FDK, IMCRW vs. DIP, CDM vs. MDM, etc.)
 - [ ] Data persistence (CDI, data dictionary)
 - [ ] Power failure
-- [ ] Hardware differences (e.g. Touchscreen vs. FDK, IMCRW vs. DIP, CDM vs. MDM, etc.)
 - [ ] Out of sequence flows
-#### Testable Acceptance Criteria
-Having the user story defined with testable accetance criteria in G-W-T format can help reviewers better understand how the code will be used.
-If this is not needed then tick reason why not
-- [ ] User Story has acceptance test criteria defined in G-W-T format
-- [ ] Not needed because not a user story
-- [ ] Not needed because development technical task
-- [ ] Not needed because of other reason
-#### Builder Fixer Tool
-- [ ] Builder Fixer Tool used 
 #### Other Teams
 Indicate if your code impacts other teams, such as Activate Enterprise
 - [ ] Have they been consulted on your changes?
